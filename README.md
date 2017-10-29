@@ -151,7 +151,11 @@ Exibe o status do seu repositório atual
 
 ## Vamos praticar!
 
+Passo 1
+
 Crie o arquivo index.html dentro do seu repositório git. 
+
+Passo 2
 
 Após criar o arquivo, execute o comando git status.
 
