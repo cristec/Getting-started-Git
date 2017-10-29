@@ -4,6 +4,8 @@
 
 É um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos na qual diversas pessoas podem contribuir simultaneamente no mesmo, editando e criando novos arquivos e permitindo que os mesmos possam existir sem o risco de suas alterações serem sobrescritas.
 
+<img src="img/use-git.gif" alt="use-git.gif"/>
+ 
 Se não houver um sistema de versão, imagine o caos entre duas pessoas abrindo o mesmo arquivo ao mesmo tempo. Uma das aplicações do git é justamente essa, permitir que um arquivo possa ser editado ao mesmo tempo por pessoas diferentes. Por mais complexo que isso seja, ele tenta manter tudo em ordem para evitar problemas para nós desenvolvedores.
 
 ## Instalando git
@@ -21,34 +23,16 @@ Se você usa uma VM na nuvem, como o cloud9 ou koding, o git já estará dispon�
 ## O que é github?
 
 O Github é um serviço web que oferece diversas funcionalidades extras aplicadas ao git. Resumindo, você poderá usar gratuitamente o github para hospedar seus projetos pessoais. Além disso, quase todos os projetos/frameworks/bibliotecas sobre desenvolvimento open source estão no github, e você pode acompanhá-los através de novas versões, contribuir informando bugs ou até mesmo enviando código e correções. Se você é desenvolvedor e ainda não tem github, você está atrasado e essa é a hora de correr atrás do prejuízo.
+<img src="img/what-is-a-github.gif" alt="what-is-a-github"/>
 
 ## Criando a conta no GitHub
 
 O github não possui instalação, ele é um serviço, e caso você não tenha uma conta, chegou a hora de criá-la,
  neste link > https://github.com/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Vamos praticar!
 
 <img src="img/Vamos-praticar.gif" alt="Vamos-praticar"/>
-
-
 
 Após criar a conta, você verá um botão verde +New Repository na qual poderá criar um repositório de acordo com a tela a seguir.
 
@@ -63,38 +47,11 @@ Passo 2
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Nesta imagem estamos criando um repositório cujo nome é curso de git, de domínio público (podem ser criados repositórios privados pagando uma mensalidade), e com o arquivo README.md embutido, que contém uma descrição do seu projeto. 
 
 Você acaba de criar o seu primeiro repositório no github \0/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="img/compilou.gif" alt="compilou"/>
 
 Após a criação do repositório, ele estará disponível no endereço https://github.com/<username>/getting-started-git , onde username é o login que você usou para se cadastrar. Acessando esta url (https://github.com/cristec/Getting-started-Git) temos a seguinte resposta: 
 
@@ -132,6 +89,8 @@ Quer dizer que qualquer pessoa pode baixar o meu projeto? Sim, isso é natural, 
 ## Comandos iniciais do git
 
 agora que você já tem o repositório na sua máquina, vamos aprender 4 comandos iniciais: 
+
+<img src="img/code.gif" alt="code"/>
 
 git add <arquivos...>                                                                                                               
 
