@@ -44,9 +44,9 @@ O github não possui instalação, ele é um serviço, e caso você não tenha u
 
 
 
-
-
 ## Vamos praticar!
+
+<img src="img/Vamos-praticar.gif" alt="Vamos-praticar"/>
 
 
 
