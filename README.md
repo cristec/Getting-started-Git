@@ -160,6 +160,7 @@ Passo 2
 Após criar o arquivo, execute o comando git status.
 
 Passo 3
+
 A resposta é semelhante a figura a seguir:
 
 
